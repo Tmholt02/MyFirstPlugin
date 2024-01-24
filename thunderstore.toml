@@ -3,13 +3,13 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "ThomasHolt"
-name = "PackageName"
+name = "MyFirstPlugin"
 versionNumber = "0.0.1"
 description = "Example mod description"
 websiteUrl = "https://thunderstore.io"
 containsNsfwContent = false
 [package.dependencies]
-ThomasHolt-PackageName = "0.0.1"
+ThomasHolt-MyFirstPlugin = "0.0.1"
 
 
 [build]
